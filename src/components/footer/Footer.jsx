@@ -1,8 +1,8 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Social from "../social/Social";
 import Share from "../share/Share";
-import UseMedia from "@/hooks/useMedia";
+import UseMedia from "../../hooks/UseMedia";
 import ShareAbsolute from "../share/ShareAbsolute";
 
 const Footer = () => {
